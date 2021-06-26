@@ -1,0 +1,24 @@
+/Users/ilkrbk/Documents/KPI-study/2_class/Проектирование алгоритмов/Лабы/Реализация/PA_LR2/PA_LR2/bin/Debug/netcoreapp3.1/PA_LR2.deps.json
+/Users/ilkrbk/Documents/KPI-study/2_class/Проектирование алгоритмов/Лабы/Реализация/PA_LR2/PA_LR2/bin/Debug/netcoreapp3.1/PA_LR2.runtimeconfig.json
+/Users/ilkrbk/Documents/KPI-study/2_class/Проектирование алгоритмов/Лабы/Реализация/PA_LR2/PA_LR2/bin/Debug/netcoreapp3.1/PA_LR2.runtimeconfig.dev.json
+/Users/ilkrbk/Documents/KPI-study/2_class/Проектирование алгоритмов/Лабы/Реализация/PA_LR2/PA_LR2/bin/Debug/netcoreapp3.1/PA_LR2.dll
+/Users/ilkrbk/Documents/KPI-study/2_class/Проектирование алгоритмов/Лабы/Реализация/PA_LR2/PA_LR2/bin/Debug/netcoreapp3.1/PA_LR2.pdb
+/Users/ilkrbk/Documents/KPI-study/2_class/Проектирование алгоритмов/Лабы/Реализация/PA_LR2/PA_LR2/obj/Debug/netcoreapp3.1/PA_LR2.csprojAssemblyReference.cache
+/Users/ilkrbk/Documents/KPI-study/2_class/Проектирование алгоритмов/Лабы/Реализация/PA_LR2/PA_LR2/obj/Debug/netcoreapp3.1/PA_LR2.AssemblyInfoInputs.cache
+/Users/ilkrbk/Documents/KPI-study/2_class/Проектирование алгоритмов/Лабы/Реализация/PA_LR2/PA_LR2/obj/Debug/netcoreapp3.1/PA_LR2.AssemblyInfo.cs
+/Users/ilkrbk/Documents/KPI-study/2_class/Проектирование алгоритмов/Лабы/Реализация/PA_LR2/PA_LR2/obj/Debug/netcoreapp3.1/PA_LR2.csproj.CoreCompileInputs.cache
+/Users/ilkrbk/Documents/KPI-study/2_class/Проектирование алгоритмов/Лабы/Реализация/PA_LR2/PA_LR2/obj/Debug/netcoreapp3.1/PA_LR2.dll
+/Users/ilkrbk/Documents/KPI-study/2_class/Проектирование алгоритмов/Лабы/Реализация/PA_LR2/PA_LR2/obj/Debug/netcoreapp3.1/PA_LR2.pdb
+/Users/ilkrbk/Documents/KPI-study/2_class/Проектирование алгоритмов/Лабы/Реализация/PA_LR2/PA_LR2/obj/Debug/netcoreapp3.1/PA_LR2.genruntimeconfig.cache
+/Users/ilkrbk/Documents/KPI-study/2_class/PA/lab/realize/PA_LR2/PA_LR2/bin/Debug/netcoreapp3.1/PA_LR2.deps.json
+/Users/ilkrbk/Documents/KPI-study/2_class/PA/lab/realize/PA_LR2/PA_LR2/bin/Debug/netcoreapp3.1/PA_LR2.runtimeconfig.json
+/Users/ilkrbk/Documents/KPI-study/2_class/PA/lab/realize/PA_LR2/PA_LR2/bin/Debug/netcoreapp3.1/PA_LR2.runtimeconfig.dev.json
+/Users/ilkrbk/Documents/KPI-study/2_class/PA/lab/realize/PA_LR2/PA_LR2/bin/Debug/netcoreapp3.1/PA_LR2.dll
+/Users/ilkrbk/Documents/KPI-study/2_class/PA/lab/realize/PA_LR2/PA_LR2/bin/Debug/netcoreapp3.1/PA_LR2.pdb
+/Users/ilkrbk/Documents/KPI-study/2_class/PA/lab/realize/PA_LR2/PA_LR2/obj/Debug/netcoreapp3.1/PA_LR2.csprojAssemblyReference.cache
+/Users/ilkrbk/Documents/KPI-study/2_class/PA/lab/realize/PA_LR2/PA_LR2/obj/Debug/netcoreapp3.1/PA_LR2.AssemblyInfoInputs.cache
+/Users/ilkrbk/Documents/KPI-study/2_class/PA/lab/realize/PA_LR2/PA_LR2/obj/Debug/netcoreapp3.1/PA_LR2.AssemblyInfo.cs
+/Users/ilkrbk/Documents/KPI-study/2_class/PA/lab/realize/PA_LR2/PA_LR2/obj/Debug/netcoreapp3.1/PA_LR2.csproj.CoreCompileInputs.cache
+/Users/ilkrbk/Documents/KPI-study/2_class/PA/lab/realize/PA_LR2/PA_LR2/obj/Debug/netcoreapp3.1/PA_LR2.dll
+/Users/ilkrbk/Documents/KPI-study/2_class/PA/lab/realize/PA_LR2/PA_LR2/obj/Debug/netcoreapp3.1/PA_LR2.pdb
+/Users/ilkrbk/Documents/KPI-study/2_class/PA/lab/realize/PA_LR2/PA_LR2/obj/Debug/netcoreapp3.1/PA_LR2.genruntimeconfig.cache
